@@ -1,0 +1,6 @@
+{
+  "name": "AgentCrashLab — AI Agent Reliability Testing Platform",
+  "description": "Deliberately simulate API failures, timeouts, corrupted outputs, and prompt injection to benchmark AI agent reliability, measure safe recovery, and catch regressions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
